@@ -1,0 +1,34 @@
+# Fathir Sthore
+
+> Fathir Sthore (juga ditulis Fathir, handle: fathirsthore) adalah creative developer dan digital creator dari Indonesia. Ia membuat website, bot Telegram, aplikasi mobile Flutter, dan backend API Node.js.
+
+Situs ini adalah website profil/portofolio resmi Fathir Sthore.
+
+## Tentang
+- Nama: Fathir Sthore
+- Peran: Creative Developer & Digital Creator
+- Lokasi: Indonesia
+- Keahlian: HTML, CSS3, JavaScript, Node.js/Express, Flutter, bot Telegram, integrasi API, MongoDB/SQL, UI/UX
+
+## Proyek
+- FATHIR CODE: marketplace produk digital dan code snippet (Next.js, Supabase, Tailwind) — https://fathirsthore.my.id
+- FATHIR TOOLS: kumpulan tools web untuk developer (HTML5, CSS3, JavaScript)
+- FATHIR STORE: platform e-commerce produk digital dan fisik (Node.js, MongoDB)
+- RIMURU: aplikasi mobile Flutter (Flutter, Firebase, Dart)
+- TELEGRAM BOTS: kumpulan bot Telegram untuk manajemen data, pembayaran, dan interaksi pengguna
+- CREATIVE SOLUTIONS: proyek kustom sesuai kebutuhan klien
+
+## Layanan
+Pembuatan website, landing page, desain UI, pengembangan JavaScript, bot Telegram, integrasi API, website statis, dan website portofolio.
+
+## Kontak resmi
+- Telegram: https://t.me/fathirsthore
+- WhatsApp: https://wa.me/628895668901
+- Email: fathirsthore@gmail.com
+- GitHub: https://github.com/fathir-sthore
+- Instagram: https://instagram.com/fathir_sthore
+- YouTube: https://youtube.com/@fathirsthore
+
+## Optional
+- Halaman utama: https://fathirsthore.github.io/profile/
+- Sitemap: https://fathirsthore.github.io/profile/sitemap.xml
