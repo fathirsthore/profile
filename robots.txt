@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Crawler AI (ChatGPT, Claude, Perplexity, Gemini, dll.) diizinkan membaca situs ini
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://fathirsthore.github.io/profile/sitemap.xml
