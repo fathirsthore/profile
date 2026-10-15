@@ -30,5 +30,5 @@ Pembuatan website, landing page, desain UI, pengembangan JavaScript, bot Telegra
 - YouTube: https://youtube.com/@fathirsthore
 
 ## Optional
-- Halaman utama: https://fathirsthore.github.io/profile/
-- Sitemap: https://fathirsthore.github.io/profile/sitemap.xml
+- Halaman utama: https://fathirportfolio.my.id/
+- Sitemap: https://fathirportfolio.my.id/sitemap.xml
